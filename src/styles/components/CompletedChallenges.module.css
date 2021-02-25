@@ -10,10 +10,10 @@
   font-weight: 500;
 }
 
-.completedChallengesContainer {
+.completedChallengesContainer span:first-child {
   font-size: 1.25rem;
 }
 
-.completedChallengesContainer {
+.completedChallengesContainer span:last-child {   
   font-size: 1.5rem;
 }
