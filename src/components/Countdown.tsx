@@ -60,6 +60,7 @@ export function Countdown() {
           className={styles.countdownButton}
       >
         Ciclo encerrado
+        <img src="icons/Go.png" alt="Sucesso"/>
       </button>
 
       ) : (

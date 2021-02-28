@@ -76,4 +76,9 @@
   background: var(--white);
   color: var(--text);
   cursor: not-allowed;
+  align-items: center;
+}
+
+.countdownButton:disabled img{
+  width: 20%;
 }
