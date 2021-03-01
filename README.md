@@ -55,4 +55,4 @@ $ yarn dev
 Para visualizar o resultado: http://localhost:3000/
 ```
 ## Licença ⚖️
-Este projeto está sob a licença do MIT. Veja o arquivo [LICENSE](https://github.com/NyctibiusVII/NLW-4-Discovery/blob/master/LICENSE) para mais detalhes.
+Este projeto está sob a licença do MIT. Veja o arquivo [LICENSE](https://github.com/https://github.com/Matheus-HFN/moveit-next/LICENSE) para mais detalhes.
