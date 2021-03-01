@@ -1,4 +1,18 @@
 # Move.it
+<div align="center">
+    <img src="public/baner.png" alt="Next Level Week #4">
+</div>
+
+<div align="center">
+     <img src="https://img.shields.io/badge/-Typescript-blue?style=for-the-badge" alt="Typescript">
+    <img src="https://img.shields.io/badge/-Next.js-dark?style=for-the-badge" alt="Next.js">
+    <img src="https://img.shields.io/badge/-React.js-blue?style=for-the-badge" alt="React.js">
+    <p>
+      Feito por <a href="https://www.linkedin.com/in/matheus-nogueira-6675a751/" target="_blank">Matheus Nogueira🚀</a>.
+    </p>
+</div>
+
+# :computer: Layout
 
 ![Move.it Banner](public/logo.png)
 
@@ -34,5 +48,3 @@ $ yarn dev
 ```
 
 Para visualizar o resultado: http://localhost:3000/
-
-Feito por [Matheus Nogueira](https://github.com/Matheus-HFN) 🚀.
