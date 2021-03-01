@@ -1,11 +1,11 @@
 # Move.it
 <div align="center">
-    <img src="public/baner.png" alt="Next Level Week #4">
+    <img src="public/banner.png" alt="Next Level Week #4">
 </div>
 
 <div align="center">
-     <img src="https://img.shields.io/badge/-Typescript-blue?style=for-the-badge" alt="Typescript">
-    <img src="https://img.shields.io/badge/-Next.js-dark?style=for-the-badge" alt="Next.js">
+     <img src="https://img.shields.io/badge/-Typescript-green?style=for-the-badge" alt="Typescript">
+    <img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge" alt="Next.js">
     <img src="https://img.shields.io/badge/-React.js-blue?style=for-the-badge" alt="React.js">
     <p>
       Feito por <a href="https://www.linkedin.com/in/matheus-nogueira-6675a751/" target="_blank">Matheus Nogueira🚀</a>.
@@ -14,7 +14,12 @@
 
 # :computer: Layout
 
-![Move.it Banner](public/logo.png)
+<div style="display: flex; flex-direction: 'column'; align-items: 'center';">
+    <img src="public/img/tela1.png" width="400px">
+    <img src="public/img/tela2.png" width="400px">
+    <img src="public/img/tela3.png" width="400px">
+    <img src="public/img/tela4.png" width="400px">
+</div>
 
 # :pushpin: Tópicos
 
@@ -45,6 +50,9 @@ $ yarn install
 
 # Rodar a aplicação
 $ yarn dev
-```
 
+# O projeto inciará na porta: 3000
 Para visualizar o resultado: http://localhost:3000/
+```
+## Licença ⚖️
+Este projeto está sob a licença do MIT. Veja o arquivo [LICENSE](https://github.com/NyctibiusVII/NLW-4-Discovery/blob/master/LICENSE) para mais detalhes.
